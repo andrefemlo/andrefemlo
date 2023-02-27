@@ -1,4 +1,4 @@
-### Bem-vindo!! 👋
+### Hello!! 👋
 
 - 🔭 I’m currently working on Braso (check out in braso.com.br)
 - 🌱 I’m currently learning React
