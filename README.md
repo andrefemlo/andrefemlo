@@ -5,4 +5,4 @@
 - 📫 How to reach me: email: andrefemlo@gmail.com or instagram: @melo.doc
 - 😄 Pronouns: him/ his
 
-- Visit my website: https://hexlab.online/(https://hexlab.online/)
+- Visit my website: https://hexlab.online/
