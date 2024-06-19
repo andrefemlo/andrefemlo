@@ -1,7 +1,7 @@
 ### Hello!! 👋
 
 - 🔭 I’m Web Developer
-- 🌱 I’m currently learning Java, React and VueJS.
+- 🌱 I’m working w/ React, VueJS, PHP, TS, and TailwindCSS.
 - 📫 How to reach me: email: andrefemlo@gmail.com or instagram: @melo.doc
 - 😄 Pronouns: him/ his
 
